@@ -1,4 +1,5 @@
 Objectif de la mission
+
 Dans l'optique d'un développement à l'international, notre entreprise de cours en ligne souhaite avoir plus d'information sur le marché mondial. Elle souhaite définir ses priorités d'implantation à partir de différents critères.
 
 Pour cela, il me faut réaliser une analyser exploraroire des données sur les mondiales de l'éducation (Taux d'investissement dans l'éducation, nombre d'élèves, taux d'équipement en internet...)
